@@ -1,3 +1,10 @@
+/* Tailwind components */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
 /* Universal class */
 *{
   margin: 0;
